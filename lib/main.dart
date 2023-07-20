@@ -15,7 +15,7 @@ var idxPencarian = "Text";
 var idxExpand = "DOWN";
 var idxRekap = "rekap";
 
-var ip = "http://182.16.173.90:3030/scanerx/";
+//var ip = "http://182.16.173.90/scanerx/";//
 var idScanPanggil = "";
 var namaCustomerPanggil = "";
 var tanggalPanggil = "";
